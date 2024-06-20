@@ -14,5 +14,3 @@ xpath = '//input[@type="text"]'
 text = '01024465660'
 driver.find_element("xpath", xpath).send_keys(text)
 # xpath = '//input[@value="닫기"]'
-# driver.find_element("xpath", xpath).click()
-
